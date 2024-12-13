@@ -1,2 +1,4 @@
-console.log("Hello from Github :D");
-console.log(ENV);
+function main(){
+    console.log("Hello from Github :D");
+    console.log(ENV);
+}
